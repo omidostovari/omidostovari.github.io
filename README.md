@@ -1,6 +1,7 @@
+<img align="center" alt="Banner" src="imgs\Banner_neu-min.jpg">
 <h1 align="center">Hi 👋, I'm Omid Ostovari</h1>
 <h3 align="center">MSc Candidate in Artificial Intelligence | Neuroscientific Data Analysis | Deep Learning Enthusiast | AI & Neurotechnology Researcher</h3>
-
+<img align="right" alt="Coding Gif" width="400" src="imgs\giphy.gif">
 - 🔭 I’m currently working on **Reinforcing neuron extraction and spike inference in calcium imaging using deep learning denoising**
 
 - 👯 I’m looking to collaborate on **designing computational tools for cross-modal neural data analysis, particularly focusing on optical and calcium imaging**
