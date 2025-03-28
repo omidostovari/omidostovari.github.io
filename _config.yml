@@ -13,7 +13,7 @@ title                    : "Omid Ostovari's Personal Website"
 title_separator          : "-"
 name                     : &name "Omid Ostovari"
 description              : &description "personal description"
-url                      : https://omidostovari.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://omidostovari.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "omidostovari/omidostovari.github.io"
 
@@ -22,7 +22,7 @@ repository               : "omidostovari/omidostovari.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   name             : "Omid Ostovari"
   pronouns         : # example: "she/her"  
   bio              : "Graduate RA & Chief TA | AI & Neurotech Researcher"
