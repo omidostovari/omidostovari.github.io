@@ -9,7 +9,7 @@ tags:
   - neuroscience-exploring-the-brain
 ---
 
-> This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+> After reading this post, you can expect to gain an overview of the key topics covered in *Neuroscience: Exploring the Brain*. The post provides a structured breakdown of the book, outlining its four main parts: foundational concepts in neuroscience, sensory and motor systems, brain-behavior relationships, and brain plasticity. You will learn about essential subjects such as neuron function, neurotransmitter systems, sensory processing, motor control, emotions, sleep, consciousness, and memory. This summary serves as a guide to understanding the book's content, helping readers navigate complex neuroscience topics with clarity.
 
 CONTENTS IN BRIEF
 ======
