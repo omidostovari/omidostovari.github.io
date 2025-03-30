@@ -18,7 +18,9 @@ PART ONE Foundations
 ------
 
 > 1. [CHAPTER ONE Neuroscience: Past, Present, and Future](/posts/2025/03/neuroscience-exploring-the-brain/part-1)
-2. [CHAPTER TWO Neurons and Glia](yourwebsite.com/foundations)
+
+
+<!-- 2. [CHAPTER TWO Neurons and Glia](yourwebsite.com/foundations)
 3. [CHAPTER THREE The Neuronal Membrane at Rest](yourwebsite.com/foundations)
 4. [CHAPTER FOUR The Action Potential](yourwebsite.com/foundations)
 5. [CHAPTER FIVE Synaptic Transmission](yourwebsite.com/foundations)
@@ -52,4 +54,4 @@ PART FOUR The Changing Brain
 ------
 > 1. [CHAPTER TWENTY-THREE Wiring the Brain](yourwebsite.com/foundations)
 2. [CHAPTER TWENTY-FOUR Memory Systems](yourwebsite.com/foundations) 
-3. [CHAPTER TWENTY-FIVE Molecular Mechanisms of Learning and Memory](yourwebsite.com/foundations)
+3. [CHAPTER TWENTY-FIVE Molecular Mechanisms of Learning and Memory](yourwebsite.com/foundations) -->
