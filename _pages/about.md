@@ -50,7 +50,6 @@ I love sharing knowledge! I’ve been a:
 ## Outside the Lab 🏕️
 When I’m not working on AI, you’ll find me:  
 - 🏃 **Running** to clear my mind and stay active.  
-- ⛰️ **Hiking & exploring nature** for inspiration.  
-- ⚽ **Playing & watching football** (Big fan of [your favorite team?]).  
+- ⛰️ **Hiking & exploring nature** for inspiration.   
 - ☕ **Discussing research & coding** over a good cup of coffee.  
 
